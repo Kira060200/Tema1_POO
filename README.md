@@ -5,5 +5,5 @@ Nume:Constantin Gabriel-Adrian
 
 Grupa:142
 
-In main puteti gasii comentariii explicative pentru fiecare metoda.
+In main puteti gasi note explicative pentru fiecare metoda.
 
